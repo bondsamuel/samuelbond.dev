@@ -1,0 +1,21 @@
+disabled = false
+languageCode = "fr"
+languageName = "Français"
+weight = 1
+title = "Acceuil"
+
+[params]
+  displayName = "FR"
+  isoCode = "fr"
+  rtl = false
+  dateFormat = "2 January 2006"
+
+ [params.author]
+   name = "Samuel Bond"
+   email = "samuel.bond.1@ens.etsmtl.ca"
+   headline = "Bienvenue sur mon portfolio! :tada:"
+   links = [
+     { email = "mailto:samuel.bond.1@ens.etsmtl.ca" },
+     { github = "https://github.com/SamGamee" },
+     { linkedin = "https://www.linkedin.com/in/samuel-bond-pro/" },
+   ]

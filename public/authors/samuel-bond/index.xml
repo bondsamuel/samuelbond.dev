@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Bond on Acceuil</title>
+    <link>http://localhost:1313/authors/samuel-bond/</link>
+    <description>Recent content in Samuel Bond on Acceuil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>samuel.bond.1@ens.etsmtl.ca (Samuel Bond)</managingEditor>
+    <webMaster>samuel.bond.1@ens.etsmtl.ca (Samuel Bond)</webMaster>
+    <copyright>© 2026 Samuel Bond</copyright>
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/samuel-bond/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Propulser mon portfolio avec Hugo : Pourquoi le statique ?</title>
+      <link>http://localhost:1313/posts/projets/hugosite/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <author>samuel.bond.1@ens.etsmtl.ca (Samuel Bond)</author>
+      <guid>http://localhost:1313/posts/projets/hugosite/</guid>
+      <description>Découvrez les coulisses de la création de ce portfolio : du choix du framework Hugo à l&amp;rsquo;hébergement, voici comment j&amp;rsquo;ai structuré mon empreinte numérique à l&amp;rsquo;ÉTS.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/projets/hugosite/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
