@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mes Projets on Acceuil</title>
+    <title>Mes Projets on Samuel Bond</title>
     <link>http://localhost:1313/posts/projets/</link>
-    <description>Recent content in Mes Projets on Acceuil</description>
+    <description>Recent content in Mes Projets on Samuel Bond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>samuel.bond.1@ens.etsmtl.ca (Samuel Bond)</managingEditor>

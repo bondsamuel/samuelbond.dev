@@ -2,13 +2,14 @@ disabled = false
 languageCode = "fr"
 languageName = "Français"
 weight = 1
-title = "Acceuil"
+title = "Samuel Bond"
 
 [params]
   displayName = "FR"
   isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
+  description = "Portfolio de Samuel Bond"
 
  [params.author]
    name = "Samuel Bond"
