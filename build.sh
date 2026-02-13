@@ -7,7 +7,7 @@ main() {
     # Install Hugo
     echo "📦 Installing Hugo v${HUGO_VERSION}..."
     curl -LJO "https://github.com/gohugoio/hugo/releases/download/v$%7BHUGO_VERSION%7D/hugo_extended_$%7BHUGO_VERSION%7D_linux-amd64.tar.gz"
-    tar -xf "hugoextended${HUGO_VERSION}_linux-amd64.tar.gz"
+    tar -xf "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
     cp hugo /opt/buildhome/
     rm LICENSE README.md "hugoextended${HUGO_VERSION}_linux-amd64.tar.gz"
 
@@ -15,8 +15,7 @@ main() {
     echo "✅ Verifying installations..."
     echo "Hugo: $(hugo version)"
     echo "Node.js: $(node --version  echo 'Not available')"
-    echo "Go: $(go version 
-    echo 'Not available')"
+    echo "Go: $(go version echo 'Not available')"
 
     # Initialize submodules (for themes)
     echo "🎨 Setting up themes..."

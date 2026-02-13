@@ -1,4 +1,4 @@
 ---
-title: "My projects"
+title: "Club CEDILLE"
 layout: "card"
 ---

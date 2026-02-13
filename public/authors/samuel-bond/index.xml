@@ -13,12 +13,12 @@
     
     <item>
       <title>Propulser mon portfolio avec Hugo : Pourquoi le statique ?</title>
-      <link>http://localhost:1313/posts/projets/hugosite/</link>
+      <link>http://localhost:1313/projets/hugo/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <author>samuel.bond.1@ens.etsmtl.ca (Samuel Bond)</author>
-      <guid>http://localhost:1313/posts/projets/hugosite/</guid>
+      <guid>http://localhost:1313/projets/hugo/</guid>
       <description>Découvrez les coulisses de la création de ce portfolio : du choix du framework Hugo à l&amp;rsquo;hébergement, voici comment j&amp;rsquo;ai structuré mon empreinte numérique à l&amp;rsquo;ÉTS.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/projets/hugosite/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projets/hugo/feature.png" />
     </item>
     
   </channel>

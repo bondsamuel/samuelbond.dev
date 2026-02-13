@@ -3,51 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/en/posts/projets/</loc>
+    <loc>http://localhost:1313/en/projets/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/posts/projets/"
+      href="http://localhost:1313/projets/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/projets/"
+      href="http://localhost:1313/en/projets/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>http://localhost:1313/en/projets/hugo/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/posts/"
+      href="http://localhost:1313/projets/hugo/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/posts/projets/hugosite/</loc>
-    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/posts/projets/hugosite/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/posts/projets/hugosite/"
+      href="http://localhost:1313/en/projets/hugo/"
     />
   </url>
   <url>
@@ -64,6 +48,36 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/club/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/club/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/club/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/hire-me/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/hire-me/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/hire-me/"
     />
   </url>
 </urlset>

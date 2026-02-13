@@ -13,12 +13,12 @@
     
     <item>
       <title>Powering my portfolio with Hugo: Why Static?</title>
-      <link>http://localhost:1313/en/posts/projets/hugosite/</link>
+      <link>http://localhost:1313/en/projets/hugo/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <author>samuel.bond.1@ens.etsmtl.ca (Samuel Bond)</author>
-      <guid>http://localhost:1313/en/posts/projets/hugosite/</guid>
+      <guid>http://localhost:1313/en/projets/hugo/</guid>
       <description>A look behind the scenes of this portfolio: from choosing the Hugo framework to hosting, here is how I structured my digital footprint at ÉTS.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/projets/hugosite/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projets/hugo/feature.png" />
     </item>
     
   </channel>
