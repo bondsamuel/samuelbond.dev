@@ -1,4 +1,4 @@
 ---
-title: "Interessted by my profil ?"
+title: "Interested by my profil ?"
 layout: "page"
 ---
