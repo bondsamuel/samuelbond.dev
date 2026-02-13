@@ -6,11 +6,11 @@ main() {
 
     # Install Hugo
     echo "📦 Installing Hugo v${HUGO_VERSION}..."
-    curl -LJO "https://github.com/gohugoio/hugo/releases/download/${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
-    ls
+
+    curl -L -J -O https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz 
     tar -xf "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
     cp hugo /opt/buildhome/
-    rm LICENSE README.md "hugo_extended${HUGO_VERSION}_linux-amd64.tar.gz"
+    rm LICENSE README.md "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
 
     # Verify installations
     echo "✅ Verifying installations..."
