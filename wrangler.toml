@@ -1,5 +1,5 @@
 name = "samuelbond-portfolio"
-compatibility_date = "2026-02-12"
+compatibility_date = "2026-02-13"
 
 [build]
 command = "./build.sh"
