@@ -13,10 +13,10 @@ title = "Samuel Bond"
 
  [params.author]
    name = "Samuel Bond"
-   email = "samuel.bond.1@ens.etsmtl.ca"
+   email = "contact@samuelbond.dev"
    headline = "Bienvenue sur mon portfolio! :tada:"
    links = [
-     { email = "mailto:samuel.bond.1@ens.etsmtl.ca" },
+     { email = "mailto:contact@samuelbond.dev" },
      { github = "https://github.com/SamGamee" },
      { linkedin = "https://www.linkedin.com/in/samuel-bond-pro/" },
    ]
