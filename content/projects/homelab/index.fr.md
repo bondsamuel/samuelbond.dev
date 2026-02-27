@@ -1,32 +1,29 @@
 ---
-title: "Propulser mon portfolio avec Hugo : Pourquoi le statique ?"
+title: "Mon homelab - L'art du Self-Hosting"
 date: 2026-02-26
-summary: "Découvrez les coulisses de la création de ce portfolio : du choix du framework Hugo à l'hébergement, voici comment j'ai structuré mon empreinte numérique à l'ÉTS."
-tags: ["Hugo", "Développement Web", "Open Source", "ÉTS"]
+tags: ["homelab", "self-hosting", "proxmox", "infrastructure"]
+categories: ["Infrastructure", "Projets"]
 showauthor: true
 authors:
   - "Samuel Bond"
 ---
 
-## Pourquoi ce projet ?
+## Pourquoi un Homelab ? 🏠
 
-Ce portfolio est né d'une volonté de documenter mon parcours à l'**ÉTS** (École de Technologie Supérieure) dès ma deuxième session. Au-delà d'un simple CV, c'est un laboratoire où je centralise mes projets techniques et mes réflexions d'étudiant en ingénierie.
+Pour un futur ingénieur en TI, un homelab n'est pas juste un serveur pour hoster Minecraft. C'est un bac à sable où l'on peut tester, casser et reconstruire des infrastructures complexes sans risque. C'est ici que je teste mes configurations réseau et mes déploiements avant de les considérer "production-ready".
 
-## Le choix de la technologie : Hugo 🚀
+* **Contrôle total** de mes données.
+* **Apprentissage continu** (Proxmox, Docker, Réseautage).
+* **Économie** sur les coûts de Cloud (AWS/Azure).
 
-Pour bâtir ce site, j'ai choisi **Hugo**, le générateur de sites statiques (SSG) écrit en Go. Voici pourquoi :
+## Le Cœur de l'Infrastructure : Proxmox VE 🚀
 
-* **Performance brute** : Hugo est réputé pour être le générateur le plus rapide au monde. La compilation de ce site se fait en quelques millisecondes.
-* **Architecture "Docs-as-Code"** : Je rédige mes articles en Markdown, ce qui me permet de versionner tout mon contenu avec Git, exactement comme mon code source.
-* **Sécurité et Légèreté** : Pas de base de données, pas de scripts PHP vulnérables. Juste du HTML, du CSS et du JavaScript optimisés.
+J'ai choisi **Proxmox Virtual Environment 9.1.4** comme hyperviseur principal. Sa flexibilité pour gérer à la fois des machines virtuelles (QEMU) et des conteneurs légers (LXC) est l'idéal pour mes besoins.
 
-## Structure et Objectifs
+## Les Services Hébergés 🛠️
 
-L'objectif de ce site est simple :
-1.  **Démontrer** mes compétences en développement et en intégration.
-2.  **Expliquer** le "pourquoi" derrière mes projets académiques.
-3.  **Partager** mes apprentissages avec la communauté open-source.
+Voici un aperçu de ce qui tourne actuellement dans mon infrastructure :
 
-> "L'ingénierie, ce n'est pas seulement construire des choses, c'est savoir expliquer comment elles fonctionnent."
-
-Ce site est en constante évolution, tout comme mon parcours à l'ÉTS.
+{{< alert icon="pencil">}}
+**Work in progress**
+{{< /alert >}}

@@ -1,32 +1,28 @@
 ---
-title: "Powering my portfolio with Hugo: Why Static?"
+title: "My Homelab - The Art of Self-Hosting"
 date: 2026-02-26
-summary: "A look behind the scenes of this portfolio: from choosing the Hugo framework to hosting, here is how I structured my digital footprint at ÉTS."
-tags: ["Hugo", "Web Development", "Open Source", "ÉTS"]
+tags: ["homelab", "self-hosting", "proxmox", "infrastructure"]
 showauthor: true
 authors:
   - "Samuel Bond"
 ---
 
-## Why this project?
+## Why a Homelab? 🏠
 
-This portfolio was born from a desire to document my journey at **ÉTS** (École de Technologie Supérieure) starting from my second semester. More than just a resume, it is a laboratory where I centralize my technical projects and my insights as an engineering student.
+For a future IT engineer, a homelab isn't just a server for hosting Minecraft. It’s a sandbox where you can test, break, and rebuild complex infrastructures without risk. This is where I test my network configurations and deployments before considering them "production-ready."
 
-## Choosing the technology: Hugo 🚀
+* **Total control** of my data.
+* **Continuous learning** (Proxmox, Docker, Networking).
+* **Savings** on Cloud costs (AWS/Azure).
 
-To build this site, I chose **Hugo**, the static site generator (SSG) written in Go. Here is why:
+## The Core of the Infrastructure: Proxmox VE 🚀
 
-* **Raw Performance**: Hugo is renowned for being the fastest generator in the world. This site builds in just a few milliseconds.
-* **"Docs-as-Code" Architecture**: I write my posts in Markdown, allowing me to version-control all my content with Git, just like my source code.
-* **Security and Simplicity**: No database, no vulnerable PHP scripts. Just optimized HTML, CSS, and JavaScript.
+I chose **Proxmox Virtual Environment 9.1.4** as my primary hypervisor. Its flexibility in managing both virtual machines (QEMU) and lightweight containers (LXC) is ideal for my needs.
 
-## Structure and Goals
+## Hosted Services 🛠️
 
-The goal of this site is simple:
-1.  **Demonstrate** my development and integration skills.
-2.  **Explain** the "why" behind my academic projects.
-3.  **Share** what I learn with the open-source community.
+Here is an overview of what is currently running in my infrastructure:
 
-> "Engineering isn't just about building things; it's about knowing how to explain how they work."
-
-This site is constantly evolving, much like my journey at ÉTS.
+{{< alert icon="pencil">}}
+**Article en cours d'écriture**
+{{< /alert >}}

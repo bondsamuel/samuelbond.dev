@@ -17,6 +17,6 @@ title = "Samuel Bond"
    headline = "Bienvenue sur mon portfolio! :tada:"
    links = [
      { email = "mailto:contact@samuelbond.dev" },
-     { github = "https://github.com/SamGamee" },
+     { github = "https://github.com/bondsamuel" },
      { linkedin = "https://www.linkedin.com/in/samuel-bond-pro/" },
    ]
