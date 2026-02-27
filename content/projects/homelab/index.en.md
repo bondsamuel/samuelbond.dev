@@ -24,5 +24,5 @@ I chose **Proxmox Virtual Environment 9.1.4** as my primary hypervisor. Its flex
 Here is an overview of what is currently running in my infrastructure:
 
 {{< alert icon="pencil">}}
-**Article en cours d'écriture**
+**Work in progress**
 {{< /alert >}}

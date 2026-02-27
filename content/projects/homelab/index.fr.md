@@ -25,5 +25,5 @@ J'ai choisi **Proxmox Virtual Environment 9.1.4** comme hyperviseur principal. S
 Voici un aperçu de ce qui tourne actuellement dans mon infrastructure :
 
 {{< alert icon="pencil">}}
-**Work in progress**
+**Article en cours d'écriture**
 {{< /alert >}}
