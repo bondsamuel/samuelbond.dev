@@ -1,5 +1,5 @@
 main() {
-    HUGO_VERSION="0.155.2"
+    HUGO_VERSION="0.155.3"
 
     echo "🚀 Starting Hugo build process..."
 
@@ -12,6 +12,8 @@ main() {
     hugo --gc --minify
 
     echo "✨ Build completed successfully!"
+
+    echo "🌐 Go to https://samuelbond.dev/ to view your site."
 }
 
 main "$@"
