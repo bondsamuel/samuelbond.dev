@@ -9,7 +9,7 @@ Are you looking for a future engineer passionate about **Information Technology 
 
 ### Why work with me?
 * **ÉTS Engineering Mindset**: A structured approach to engineering and solving complex problems.
-* **Autonomy**: Capable of managing a project from the initial design to live deployment (like this [portfolio](https://samuelbond.dev/projets/hugo/)!).
+* **Autonomy**: Capable of managing a project from the initial design to live deployment (like this [portfolio](https://samuelbond.dev/projects/hugo/)!).
 * **Curiosity (and Deconstruction)**: I love to take things apart, break them, analyze, and rebuild. It’s my way of understanding exactly how systems work from the inside out.
 
 ### Let's Connect!

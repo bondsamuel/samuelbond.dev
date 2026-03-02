@@ -9,7 +9,7 @@ Vous recherchez un futur ingénieur passionné par les **technologies de l'infor
 
 ### Pourquoi collaborer avec moi ?
 * **Rigueur de l'ÉTS** : Une approche structurée de l'ingénierie et de la résolution de problèmes complexes.
-* **Autonomie** : Capable de prendre en charge un projet de la conception au déploiement (comme ce [portfolio](https://samuelbond.dev/projets/hugo/) !).
+* **Autonomie** : Capable de prendre en charge un projet de la conception au déploiement (comme ce [portfolio](https://samuelbond.dev/projects/hugo/) !).
 * **Curiosité** : J'adore démonter, casser, analyser et reconstruire. C'est ma façon de comprendre exactement comment les systèmes fonctionnent, de l'intérieur.
 
 ### Discutons !
